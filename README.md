@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mertcan</h1>
 <h3 align="center">I am studying Informatics at Otto-Friedrich University.</h3>
 
-- 🌱 I’m currently improving myself **Python**
+- 🌱 I’m currently improving myself in **Python**
 
 - 📫 How to reach me **mertcanbklvc@gmail.com**
 
